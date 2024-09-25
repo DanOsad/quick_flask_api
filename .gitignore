@@ -1,0 +1,8 @@
+# DIRS
+/__pycache__
+/.venv
+
+# FILES
+*.pyc
+.env
+
