@@ -6,7 +6,7 @@ Quickly spin up a flask instance. Can be created locally or as a docker containe
 ## Usage
 To create a local instance of the flask template, simply run `create_flask_api.sh`
 
-To run as a docker container, run `docker-compose -up d`
+To run as a docker container, run `create_flask_api.sh -docker`
 
 ## Todo
 - [X] Create generic Flask template
